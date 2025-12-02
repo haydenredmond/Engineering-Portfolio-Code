@@ -3,6 +3,10 @@
 
 %% About
 % Author: Hayden Redmond
+% Contact: hayden@redmondengineering.com
+
+%% NOTICE
+% For educational use only. Do not distribute. Usage permitted only with written consent.
 
 %% User Inputs
 clc; clear; close all
